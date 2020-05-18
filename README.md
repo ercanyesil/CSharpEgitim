@@ -1,2 +1,2 @@
-#   C#Egitim
+# CSharpEgitim
 C# eğitim kodlarını içeren projedir.
